@@ -1,2 +1,2 @@
 
-![](https://leetcard.jacoblin.cool/aftab_a17?ext=heatmap)
+![](https://leetcard.jacoblin.cool/aftab_a17?ext=activity)
